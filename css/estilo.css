@@ -1,0 +1,33 @@
+body{
+    background-color: beige;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+.titulo{
+    color: black;
+    background-color: white;
+    font-size: 25px;
+    margin: 0.5px;
+    margin-left: 0.5px;
+    margin-right: 0.5px;
+    padding: 0.5px;
+}
+
+.parrafo{
+color: black;
+background-color: white;
+font-size: 20px;
+}
+
+.parrafo2{
+color: black;
+background-color: white;
+font-size: 20px;
+}
+
+.parrafo3{
+color: black;
+background-color: white;
+font-size: 20px;
+}
